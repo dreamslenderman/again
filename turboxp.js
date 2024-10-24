@@ -65,7 +65,7 @@ const init = async () => {
                             sessionExperimentRecord: [],
                             sessionStartExperiments: [],
                             showBestTranslationInGradingRibbon: true,
-                            xpPromised: 201,
+                            xpPromised: 1000000000,
                         }),
                     }).then(res => {
                         if (!res.ok) {
